@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SiemensMakeitReal</string>
+    <string name="PDtitle">Parkinson\'s Tester</string>
+    <string name="PDtapButton">Finger Tapping</string>
+    <string name="PDdoubleButton">Double Finger Tapping</string>
+    <string name="testMe">Test Me</string>
+
+</resources>
